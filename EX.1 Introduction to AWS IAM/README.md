@@ -69,7 +69,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Aadhithan B (212224040001)
+**Name:** Kamlesh Y (212224100029)
 
 **Course:** Cloud Computing
 
